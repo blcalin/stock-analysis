@@ -22,7 +22,7 @@ Refactoring code ensures it is more visible and easier to read for the viewer. T
 ### Advantages and Disadvantages of Refactored Script
 Advatanges of refactored stock data include processing time. The original script would involve manually sorting through stock data, whereas refactoring allows us to process 2017 and 2018 stocks in 0.16 seconds respectively, per the screenshots below.
 
-[image]
+[![image](https://user-images.githubusercontent.com/109991916/185679900-a1a2f121-c007-4c79-a900-76550603429a.png)]
 
 [image]
 
