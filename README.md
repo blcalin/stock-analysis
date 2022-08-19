@@ -11,9 +11,9 @@ Data presented includes two charts of 12 stock tickers, with the goal of determi
 ## Results and Analysis
 Two charts for years 2017 and 2018 were created, color coded based on return (green for positive, red for negative using the vbcolor formula). Using starter code, an input box, headers, and arrays (for ticker volume, starting price, ending price) were created in order to refactor our code to find ticker, volume and return information. The charts below are examples of the 2017 and 2018 output based on our expected analyses.
 
-![image]]
+![image](https://user-images.githubusercontent.com/109991916/185680253-96dbac78-14bb-491a-816b-53ec07c37afa.png)
 
-![image]]
+![image](https://user-images.githubusercontent.com/109991916/185680314-29898171-b4ce-4121-af98-bf5221317075.png)
 
 ## Summary
 ### Pros and Cons of Refactoring Code
@@ -24,6 +24,6 @@ Advatanges of refactored stock data include processing time. The original script
 
 ![image](https://user-images.githubusercontent.com/109991916/185679900-a1a2f121-c007-4c79-a900-76550603429a.png)
 
-[image]
+![image](https://user-images.githubusercontent.com/109991916/185680171-2e2a4725-4ca4-4239-9338-4741a6c13e51.png)
 
 Overall, the use of VBA and refactoring is particularly helpful when working with a larger data set. This allows us to efficiently and effectively sort through large quantities of data, which saves time and resources.
