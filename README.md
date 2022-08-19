@@ -11,9 +11,9 @@ Data presented includes two charts of 12 stock tickers, with the goal of determi
 ## Results and Analysis
 Two charts for years 2017 and 2018 were created, color coded based on return (green for positive, red for negative using the vbcolor formula). Using starter code, an input box, headers, and arrays (for ticker volume, starting price, ending price) were created in order to refactor our code to find ticker, volume and return information. The charts below are examples of the 2017 and 2018 output based on our expected analyses.
 
-[image]
+![image]]
 
-[image]
+![image]]
 
 ## Summary
 ### Pros and Cons of Refactoring Code
