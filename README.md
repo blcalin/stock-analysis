@@ -11,7 +11,7 @@ Data presented includes two charts of 12 stock tickers, with the goal of determi
 ## Results and Analysis
 Two charts for years 2017 and 2018 were created, color coded based on return (green for positive, red for negative using the vbcolor formula). Using starter code, an input box, headers, and arrays (for ticker volume, starting price, ending price) were created in order to refactor our code to find ticker, volume and return information. The charts below are examples of the 2017 and 2018 output based on our expected analyses.
 
-![VBA 2017 Chart Screenshot] (https://github.com/blcalin/stock-analysis/blob/main/All%20Stocks%202017.png)
+![![image](https://user-images.githubusercontent.com/109991916/185679514-38e94251-c86d-4553-bfdc-720b9e75ed57.png)] (https://github.com/blcalin/stock-analysis/blob/main/All%20Stocks%202017.png)
 
 ![VBA 2018 Chart Screenshot] (https://github.com/blcalin/stock-analysis/blob/main/All%20Stocks%202018.png)
 
